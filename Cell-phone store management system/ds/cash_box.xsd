@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="cash_box" targetNamespace="http://tempuri.org/cash_box.xsd" xmlns:mstns="http://tempuri.org/cash_box.xsd" xmlns="http://tempuri.org/cash_box.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="psConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="psConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PRINT_SHOP.Properties.Settings.GlobalReference.Default.psConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="cash_box" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="cash_box" msprop:Generator_UserDSName="cash_box">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="cash_box" msprop:Generator_TableClassName="cash_boxDataTable" msprop:Generator_TableVarName="tablecash_box" msprop:Generator_TablePropName="_cash_box" msprop:Generator_RowDeletingName="cash_boxRowDeleting" msprop:Generator_RowChangingName="cash_boxRowChanging" msprop:Generator_RowEvHandlerName="cash_boxRowChangeEventHandler" msprop:Generator_RowDeletedName="cash_boxRowDeleted" msprop:Generator_UserTableName="cash_box" msprop:Generator_RowChangedName="cash_boxRowChanged" msprop:Generator_RowEvArgName="cash_boxRowChangeEvent" msprop:Generator_RowClassName="cash_boxRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="slip_id" msprop:Generator_ColumnVarNameInTable="columnslip_id" msprop:Generator_ColumnPropNameInRow="slip_id" msprop:Generator_ColumnPropNameInTable="slip_idColumn" msprop:Generator_UserColumnName="slip_id" type="xs:int" />
+              <xs:element name="type" msprop:Generator_ColumnVarNameInTable="columntype" msprop:Generator_ColumnPropNameInRow="type" msprop:Generator_ColumnPropNameInTable="typeColumn" msprop:Generator_UserColumnName="type">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="amount" msprop:Generator_ColumnVarNameInTable="columnamount" msprop:Generator_ColumnPropNameInRow="amount" msprop:Generator_ColumnPropNameInTable="amountColumn" msprop:Generator_UserColumnName="amount" type="xs:decimal" />
+              <xs:element name="date" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_UserColumnName="date" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:cash_box" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

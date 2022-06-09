@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Repair_bill" targetNamespace="http://tempuri.org/Repair_bill.xsd" xmlns:mstns="http://tempuri.org/Repair_bill.xsd" xmlns="http://tempuri.org/Repair_bill.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="psConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="psConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PRINT_SHOP.Properties.Settings.GlobalReference.Default.psConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Repair_bill" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Repair_bill" msprop:Generator_UserDSName="Repair_bill">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="repair" msprop:Generator_TableClassName="repairDataTable" msprop:Generator_TableVarName="tablerepair" msprop:Generator_TablePropName="repair" msprop:Generator_RowDeletingName="repairRowDeleting" msprop:Generator_RowChangingName="repairRowChanging" msprop:Generator_RowEvHandlerName="repairRowChangeEventHandler" msprop:Generator_RowDeletedName="repairRowDeleted" msprop:Generator_UserTableName="repair" msprop:Generator_RowChangedName="repairRowChanged" msprop:Generator_RowEvArgName="repairRowChangeEvent" msprop:Generator_RowClassName="repairRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="cust_name" msprop:Generator_ColumnVarNameInTable="columncust_name" msprop:Generator_ColumnPropNameInRow="cust_name" msprop:Generator_ColumnPropNameInTable="cust_nameColumn" msprop:Generator_UserColumnName="cust_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="contact_no" msprop:Generator_ColumnVarNameInTable="columncontact_no" msprop:Generator_ColumnPropNameInRow="contact_no" msprop:Generator_ColumnPropNameInTable="contact_noColumn" msprop:Generator_UserColumnName="contact_no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="manufacture" msprop:Generator_ColumnVarNameInTable="columnmanufacture" msprop:Generator_ColumnPropNameInRow="manufacture" msprop:Generator_ColumnPropNameInTable="manufactureColumn" msprop:Generator_UserColumnName="manufacture">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="model" msprop:Generator_ColumnVarNameInTable="columnmodel" msprop:Generator_ColumnPropNameInRow="model" msprop:Generator_ColumnPropNameInTable="modelColumn" msprop:Generator_UserColumnName="model">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ime" msprop:Generator_ColumnVarNameInTable="columnime" msprop:Generator_ColumnPropNameInRow="ime" msprop:Generator_ColumnPropNameInTable="imeColumn" msprop:Generator_UserColumnName="ime">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fault" msprop:Generator_ColumnVarNameInTable="columnfault" msprop:Generator_ColumnPropNameInRow="fault" msprop:Generator_ColumnPropNameInTable="faultColumn" msprop:Generator_UserColumnName="fault">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="in_date" msprop:Generator_ColumnVarNameInTable="columnin_date" msprop:Generator_ColumnPropNameInRow="in_date" msprop:Generator_ColumnPropNameInTable="in_dateColumn" msprop:Generator_UserColumnName="in_date" type="xs:dateTime" />
+              <xs:element name="out_date" msprop:Generator_ColumnVarNameInTable="columnout_date" msprop:Generator_ColumnPropNameInRow="out_date" msprop:Generator_ColumnPropNameInTable="out_dateColumn" msprop:Generator_UserColumnName="out_date" type="xs:dateTime" />
+              <xs:element name="cost" msprop:Generator_ColumnVarNameInTable="columncost" msprop:Generator_ColumnPropNameInRow="cost" msprop:Generator_ColumnPropNameInTable="costColumn" msprop:Generator_UserColumnName="cost" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:repair" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

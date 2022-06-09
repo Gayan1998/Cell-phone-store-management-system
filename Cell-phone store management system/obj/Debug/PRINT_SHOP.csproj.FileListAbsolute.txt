@@ -1,0 +1,137 @@
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Dash.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Loging.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Properties.Resources.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.GenerateResource.cache
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.CoreCompileInputs.cache
+E:\Projects\Print shop\PRINT_SHOP\bin\Debug\PRINT_SHOP.exe.config
+E:\Projects\Print shop\PRINT_SHOP\bin\Debug\PRINT_SHOP.exe
+E:\Projects\Print shop\PRINT_SHOP\bin\Debug\PRINT_SHOP.pdb
+E:\Projects\Print shop\PRINT_SHOP\bin\Debug\MySql.Data.DLL
+E:\Projects\Print shop\PRINT_SHOP\bin\Debug\Renci.SshNet.dll
+E:\Projects\Print shop\PRINT_SHOP\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.CopyComplete
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.exe
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.pdb
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_customer.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_suppiler.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.GRN.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Item_Register.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Settle_Balance.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Return_from_bill.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Wholesale_return.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Whole_Sales.resources
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.csprojAssemblyReference.cache
+E:\Projects\Print shop\PRINT_SHOP\obj\Debug\PRINT_SHOP.Select_cust.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\PRINT_SHOP.exe.config
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\PRINT_SHOP.exe
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\PRINT_SHOP.pdb
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\MySql.Data.DLL
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\Renci.SshNet.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\stdole.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.csprojAssemblyReference.cache
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_customer.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_suppiler.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Dash.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Loging.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.GRN.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Item_Register.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Properties.Resources.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Select_cust.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Whole_Sales.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Return_from_bill.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Settle_Balance.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.GenerateResource.cache
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.CoreCompileInputs.cache
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.CopyComplete
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.exe
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.pdb
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Repair_in.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.repair_out.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.find_bill_v.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Stock_rpt_v.resources
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\bin\Debug\mysqlbackup.dll
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.exe.config
+C:\Users\Gayan\Desktop\gem mobile\PRINT_SHOP\obj\Debug\PRINT_SHOP.Ceque_Data.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\PRINT_SHOP.exe.config
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\PRINT_SHOP.exe
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\PRINT_SHOP.pdb
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\MySql.Data.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\mysqlbackup.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\Google.Protobuf.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\Zstandard.Net.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\stdole.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\System.Memory.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\System.Buffers.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\bin\Debug\MySql.Data.xml
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.AssemblyReference.cache
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.exe.config
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_customer.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Add_imei.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_new_user.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.add_supplier.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Ceque_Data.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Dash.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Delete_profit.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.find_bill_v.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Loging.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.GRN.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Item_Register.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Properties.Resources.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Repair_in.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.repair_out.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Return_to_Supplier.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Select_cust.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Stock_rpt_v.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Track__phone_by_imei.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Whole_Sales.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Return_from_bill.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.Settle_Balance.resources
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.GenerateResource.cache
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.CoreCompileInputs.cache
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.csproj.CopyComplete
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.exe
+D:\Projects\gem mobile - Copy (2)\PRINT_SHOP\obj\Debug\PRINT_SHOP.pdb

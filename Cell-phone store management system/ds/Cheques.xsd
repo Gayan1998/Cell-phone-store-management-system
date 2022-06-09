@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Cheques" targetNamespace="http://tempuri.org/Cheques.xsd" xmlns:mstns="http://tempuri.org/Cheques.xsd" xmlns="http://tempuri.org/Cheques.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="psConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="psConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PRINT_SHOP.Properties.Settings.GlobalReference.Default.psConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Cheques" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Cheques" msprop:Generator_UserDSName="Cheques">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="cheque_data" msprop:Generator_TableClassName="cheque_dataDataTable" msprop:Generator_TableVarName="tablecheque_data" msprop:Generator_TablePropName="cheque_data" msprop:Generator_RowDeletingName="cheque_dataRowDeleting" msprop:Generator_RowChangingName="cheque_dataRowChanging" msprop:Generator_RowEvHandlerName="cheque_dataRowChangeEventHandler" msprop:Generator_RowDeletedName="cheque_dataRowDeleted" msprop:Generator_UserTableName="cheque_data" msprop:Generator_RowChangedName="cheque_dataRowChanged" msprop:Generator_RowEvArgName="cheque_dataRowChangeEvent" msprop:Generator_RowClassName="cheque_dataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="Cheque_No" msprop:Generator_ColumnVarNameInTable="columnCheque_No" msprop:Generator_ColumnPropNameInRow="Cheque_No" msprop:Generator_ColumnPropNameInTable="Cheque_NoColumn" msprop:Generator_UserColumnName="Cheque_No">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bank" msprop:Generator_ColumnVarNameInTable="columnbank" msprop:Generator_ColumnPropNameInRow="bank" msprop:Generator_ColumnPropNameInTable="bankColumn" msprop:Generator_UserColumnName="bank">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ammount" msprop:Generator_ColumnVarNameInTable="columnammount" msprop:Generator_ColumnPropNameInRow="ammount" msprop:Generator_ColumnPropNameInTable="ammountColumn" msprop:Generator_UserColumnName="ammount" type="xs:float" />
+              <xs:element name="date" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_UserColumnName="date" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:cheque_data" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

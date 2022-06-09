@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="stock" targetNamespace="http://tempuri.org/stock.xsd" xmlns:mstns="http://tempuri.org/stock.xsd" xmlns="http://tempuri.org/stock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="psConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="psConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PRINT_SHOP.Properties.Settings.GlobalReference.Default.psConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="stock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="stock" msprop:Generator_UserDSName="stock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="item" msprop:Generator_TableClassName="itemDataTable" msprop:Generator_TableVarName="tableitem" msprop:Generator_TablePropName="item" msprop:Generator_RowDeletingName="itemRowDeleting" msprop:Generator_RowChangingName="itemRowChanging" msprop:Generator_RowEvHandlerName="itemRowChangeEventHandler" msprop:Generator_RowDeletedName="itemRowDeleted" msprop:Generator_UserTableName="item" msprop:Generator_RowChangedName="itemRowChanged" msprop:Generator_RowEvArgName="itemRowChangeEvent" msprop:Generator_RowClassName="itemRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Item_id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnItem_id" msprop:Generator_ColumnPropNameInRow="Item_id" msprop:Generator_ColumnPropNameInTable="Item_idColumn" msprop:Generator_UserColumnName="Item_id" type="xs:int" />
+              <xs:element name="Item_name" msprop:Generator_ColumnVarNameInTable="columnItem_name" msprop:Generator_ColumnPropNameInRow="Item_name" msprop:Generator_ColumnPropNameInTable="Item_nameColumn" msprop:Generator_UserColumnName="Item_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cost" msprop:Generator_ColumnVarNameInTable="columncost" msprop:Generator_ColumnPropNameInRow="cost" msprop:Generator_ColumnPropNameInTable="costColumn" msprop:Generator_UserColumnName="cost" type="xs:decimal" />
+              <xs:element name="cost_code" msprop:Generator_ColumnVarNameInTable="columncost_code" msprop:Generator_ColumnPropNameInRow="cost_code" msprop:Generator_ColumnPropNameInTable="cost_codeColumn" msprop:Generator_UserColumnName="cost_code">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="65535" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="discount" msprop:Generator_ColumnVarNameInTable="columndiscount" msprop:Generator_ColumnPropNameInRow="discount" msprop:Generator_ColumnPropNameInTable="discountColumn" msprop:Generator_UserColumnName="discount" type="xs:decimal" />
+              <xs:element name="rate" msprop:Generator_ColumnVarNameInTable="columnrate" msprop:Generator_ColumnPropNameInRow="rate" msprop:Generator_ColumnPropNameInTable="rateColumn" msprop:Generator_UserColumnName="rate" type="xs:decimal" />
+              <xs:element name="wholesale" msprop:Generator_ColumnVarNameInTable="columnwholesale" msprop:Generator_ColumnPropNameInRow="wholesale" msprop:Generator_ColumnPropNameInTable="wholesaleColumn" msprop:Generator_UserColumnName="wholesale" type="xs:decimal" />
+              <xs:element name="supplier" msprop:Generator_ColumnVarNameInTable="columnsupplier" msprop:Generator_ColumnPropNameInRow="supplier" msprop:Generator_ColumnPropNameInTable="supplierColumn" msprop:Generator_UserColumnName="supplier">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="warranty" msprop:Generator_ColumnVarNameInTable="columnwarranty" msprop:Generator_ColumnPropNameInRow="warranty" msprop:Generator_ColumnPropNameInTable="warrantyColumn" msprop:Generator_UserColumnName="warranty">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="grn" msprop:Generator_TableClassName="grnDataTable" msprop:Generator_TableVarName="tablegrn" msprop:Generator_TablePropName="grn" msprop:Generator_RowDeletingName="grnRowDeleting" msprop:Generator_RowChangingName="grnRowChanging" msprop:Generator_RowEvHandlerName="grnRowChangeEventHandler" msprop:Generator_RowDeletedName="grnRowDeleted" msprop:Generator_UserTableName="grn" msprop:Generator_RowChangedName="grnRowChanged" msprop:Generator_RowEvArgName="grnRowChangeEvent" msprop:Generator_RowClassName="grnRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="Item_id" msprop:Generator_ColumnVarNameInTable="columnItem_id" msprop:Generator_ColumnPropNameInRow="Item_id" msprop:Generator_ColumnPropNameInTable="Item_idColumn" msprop:Generator_UserColumnName="Item_id" type="xs:int" />
+              <xs:element name="Qty" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnPropNameInTable="QtyColumn" msprop:Generator_UserColumnName="Qty" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:item" />
+      <xs:field xpath="mstns:Item_id" />
+    </xs:unique>
+    <xs:unique name="grn_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:grn" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
